@@ -6,7 +6,7 @@ a{  text-decoration: none;
     border-bottom:1px solid blue ;
 }
 
-.fa{
+.fa-instagram{
     color:rgba(83, 83, 214, 0.904)
 }
 
@@ -20,4 +20,20 @@ a{  text-decoration: none;
 }
 .box{
     padding:60px 0px;
+}
+
+.fa-pinterest{
+    color:saddlebrown;
+}
+
+.fa-google-plus{
+    color:red;
+}
+
+.fa-twitter{
+    color:blue;
+}
+
+.fa-facebook{
+    color:rgb(83, 83, 199)
 }
