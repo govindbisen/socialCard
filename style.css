@@ -37,3 +37,9 @@ a{  text-decoration: none;
 .fa-facebook{
     color:rgb(83, 83, 199)
 }
+
+
+.box-center{
+    border-radius: 10px;
+    border : 1px solid black;
+}
